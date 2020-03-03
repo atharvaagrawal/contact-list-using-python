@@ -1,6 +1,6 @@
 # Contact-List Project in Python
 
-<b> Introduction /b>
+<b> Introduction </b>
 
 <p>
 Contact Management System project is written in Python. The project file contains a python script (index.py). This is a simple Console based system project which is very easy to understand and use. Talking about the system, it contains all the required functions which include adding, viewing, deleting and updating contact lists. While adding the contact of a person, he/she has to provide first name, last name, gender, address and contact details. The user can also update the contact list if he/she wants to.
