@@ -8,6 +8,7 @@ Contact Management System project is written in Python. The project file contain
 ## Module 
 We import ContactList.py module in Display.py and used all properties of ContactList.py  module is Display.py module
 
+***
 
 ## Functons Used   
  1. **__init__() –** It is the constructor which is used in our project for opening our Contacts.txt File  
